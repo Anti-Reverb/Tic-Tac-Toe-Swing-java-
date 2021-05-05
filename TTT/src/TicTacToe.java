@@ -5,15 +5,10 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.JButton;
 
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 
 /**
  *
- * @author User
+ * @author Aryan Shaikh Mar 07, 2019
  */
 public class TicTacToe extends javax.swing.JFrame {
 
